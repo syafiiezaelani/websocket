@@ -1,0 +1,12 @@
+most of the notes would be in the react app. this is just the structure of the app itself: 
+
+    index.js: Entry point for the server, initializing and running the WebSocket server.
+    routes/: Folder containing route handlers for different functionalities.
+    models/: Data models for interacting with the database.
+    utils/: Utility functions for common tasks.
+    config.js: Configuration file for server settings like port and database connection details.
+    c. Benefits:
+
+referred to this to set up server: 
+https://blog.postman.com/set-up-a-websockets-server-in-node-js-postman/
+

@@ -1,0 +1,1 @@
+To start the server, use this command: npx nodemon ./index.js
